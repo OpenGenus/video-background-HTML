@@ -9,5 +9,5 @@ In this tutorial, we showcase how to create a web application with a video backg
 5. Save the HTML file and CSS file.
 6. Open the HTML file in a web browser to see the page with a video background.
 
-Below is a screenshot for the finished example
+Below is a screenshot for the finished example of video background
 ![Screenshot](screenshot.png)
